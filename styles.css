@@ -1,0 +1,14 @@
+header{
+    background: linear-gradient(to right, #120021, #4b0225);
+}
+body{
+    background: linear-gradient(to right, #1c0031, #640533);
+    color: rgb(255, 106, 161);
+    text-align: center;
+}
+
+img{width: 400px;}
+
+h2{
+    background: linear-gradient(to right, #120021, #4b0225);
+}
